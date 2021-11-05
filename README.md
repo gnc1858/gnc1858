@@ -1,4 +1,4 @@
-- 👋 Hi, I’m genc
+- 👋 Hi, I’m gnc
 - 👀 I’m a javascript passionate
 - 🌱 I’m currently developing web apps
 
